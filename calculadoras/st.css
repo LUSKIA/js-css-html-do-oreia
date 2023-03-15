@@ -38,6 +38,7 @@ button{
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     cursor: pointer;
+    border: none;
 }
 
 .bt-bk{
